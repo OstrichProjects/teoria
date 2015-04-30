@@ -1,0 +1,17 @@
+{
+  "name": "teoria",
+  "version": "1.6.0",
+  "homepage": "https://github.com/OstrichProjects/teoria",
+  "authors": [
+    "Jakob Miland <saebekassebil@gmail.com>"
+  ],
+  "main": "dist\\teoria.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
