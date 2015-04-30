@@ -6,6 +6,8 @@ for music theory, both Jazz and Classical. It aims at providing an intuitive
 programming interface for music software (such as Sheet Readers,
 Sheet Writers, MIDI Players etc.).
 
+This fork includes the dist folder with a built file including all scales.
+
 Features
 ---------
 
