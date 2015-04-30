@@ -5,7 +5,7 @@
   "authors": [
     "Jakob Miland <saebekassebil@gmail.com>"
   ],
-  "main": "dist\\teoria.js",
+  "main": "dist/teoria.js",
   "license": "MIT",
   "ignore": [
     "**/.*",
